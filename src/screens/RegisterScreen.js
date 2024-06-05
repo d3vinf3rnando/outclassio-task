@@ -1,14 +1,15 @@
 
-import Button from '@mui/material/Button';
-
 import React from 'react'
+import Header from '../components/header'
+
+
 
 function RegisterScreen() {
   return (
-    
+    <Header/>
 
-
- <Button variant="contained">Hello world</Button>);
+   
+  )
 }
 
 
